@@ -12,3 +12,4 @@
   3. Gson：解析json数据的框架，简易方便
   
   
+![Image](https://github.com/ProgrammerAjun/Weather-Forecast/blob/master/app/src/main/res/mipmap-hdpi/readme.png)
